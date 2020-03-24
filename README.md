@@ -19,7 +19,7 @@ Simple CLI Program to track COVID-19 Info
 
 ```sh
 # Install globally (recommended).
-npm install -g covid19-cli
+npm i @idigitworx/covid19-cli
 
 ## Usage
 
