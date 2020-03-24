@@ -36,8 +36,6 @@ corona --xcolor
 corona -x
 ```
 
-[![📟](./.github/corona.gif)](./../../)
-
 ### Single Country
 
 ```sh
