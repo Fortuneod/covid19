@@ -3,7 +3,7 @@ Simple CLI Program to track COVID-19 Info
 
 <h4 align="center">
     <a href="https://github.com/Fortuneod/covid19-cli">
-        <img src="./.github/logo.jpg" alt="covid19-cli" />
+        <img src="./logo.jpg" alt="covid19-cli" />
     </a>
     <br>
     <br>
